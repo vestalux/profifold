@@ -12,11 +12,11 @@ page_sections:
     button_text: ''
 - template: hero-banner-w-image
   block: hero-2
-  background_image: ''
+  background_image: "/uploads/2020/03/23/venieri.jpg"
   image:
     image: ''
     alt_text: ''
-  headline: ''
+  headline: Földmunka városi környezetben
   content: ''
   cta:
     enabled: false
