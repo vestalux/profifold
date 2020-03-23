@@ -6,7 +6,9 @@ page_sections:
 - template: navigation-header
   block: header-1
   logo: ''
-  navigation: []
+  navigation:
+  - link_text: Kezdőlap
+    link: "/"
 - template: content-feature
   block: feature-1
   media_alignment: Left
