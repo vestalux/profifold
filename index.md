@@ -5,7 +5,7 @@ date: 2017-11-22 23:00:00 +0000
 page_sections:
 - template: navigation-header
   block: header-1
-  logo: ''
+  logo: "/uploads/2020/03/23/logo.png"
   navigation:
   - link_text: Kezdőlap
     link: "/"
