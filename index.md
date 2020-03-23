@@ -1,11 +1,11 @@
 ---
 layout: blocks
 title: Homepage
-date: 2017-11-22 23:00:00 +0000
+date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header
   block: header-1
-  logo: "/uploads/2020/03/23/logo.png"
+  logo: "/uploads/2020/03/23/logo2.png"
   navigation:
   - link_text: Kezdőlap
     link: "/"
